@@ -1,0 +1,5 @@
+1. Muestra el nombre de todos los bailes.
+
+2. Muestra el nombre y precio de todos los bailes.
+
+3. Muestra el nombre y precio de todos los bailes donde su precio es mayor que 40.

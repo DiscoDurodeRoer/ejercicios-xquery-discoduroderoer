@@ -1,0 +1,3 @@
+14. Obtener la suma del precio de todas las clases.
+
+15. Obtener la suma del precio de todas las clases, teniendo en cuenta la moneda usada.

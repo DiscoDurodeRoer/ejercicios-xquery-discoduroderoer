@@ -1,0 +1,5 @@
+4. Mostrar los bailes ordenados por nombre.
+
+5. Mostrar los nombres de los bailes que contienen una a.
+
+6. Mostrar el nombre de los bailes donde el apellido del profesor sea Lozano.

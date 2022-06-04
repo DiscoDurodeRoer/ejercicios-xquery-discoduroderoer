@@ -1,0 +1,5 @@
+16. Obtener el dia, mes y año de los bailes mensuales, tanto del comienzo como del final.
+
+17. Obtener los bailes que tengan mas de 100 dias de diferencia.
+
+18. Obtener la diferencia de dias del comienzo del baile con la fecha actual.
